@@ -1,5 +1,5 @@
 # one_drive_upload
-# **Automated Video Upload from OneDrive to YouTube**
+# Video Upload from OneDrive to YouTube**
 
 ## **Overview**
 
@@ -11,6 +11,7 @@ Before running the script, ensure you have the following:
 - Python 3.6 or higher installed.
 - A Microsoft OneDrive account and a YouTube channel.
 - API credentials for both Microsoft and Google services.
+- Google Cloud Console
 
 ## **Generate API Credentials**
 
